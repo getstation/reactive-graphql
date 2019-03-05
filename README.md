@@ -1,3 +1,8 @@
+# Differences with [mesosphere/reactive-graphql](https://github.com/mesosphere/reactive-graphql)
+- [PR#19](https://github.com/mesosphere/reactive-graphql/pull/19) merged: Fix resolvers returning undefined
+- [PR#23](https://github.com/mesosphere/reactive-graphql/pull/23) merged: Fix error thrown for nullable field resolving null
+- [PR#25](https://github.com/mesosphere/reactive-graphql/pull/25) merged: Fix tests that are skiped
+
 # Reactive GraphQL
 
 > GraphQL reactive executor
